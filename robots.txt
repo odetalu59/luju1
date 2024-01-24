@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://af.id.au/superjp/sitemap.xml
+Sitemap: http://af.id.au/gilajp/sitemap.xml
+Sitemap: http://af.id.au/gojekpot/sitemap.xml
+Sitemap: http://af.id.au/winstrike69/sitemap.xml
+Sitemap: http://af.id.au/slotgacor/sitemap.xml
+Sitemap: http://af.id.au/slotzeus/sitemap.xml
+Sitemap: http://af.id.au/kaptenjackpot/sitemap.xml
+Sitemap: http://af.id.au/boosterjp/sitemap.xml
+Sitemap: http://af.id.au/kerajaanslot/sitemap.xml
+Sitemap: http://af.id.au/pakong86/sitemap.xml
+Sitemap: http://af.id.au/viral88/sitemap.xml
+Sitemap: http://af.id.au/clan4d/sitemap.xml
+Sitemap: http://af.id.au/dinamit4d/sitemap.xml
+Sitemap: http://af.id.au/elang212/sitemap.xml
+Sitemap: http://af.id.au/gori77/sitemap.xml
+Sitemap: http://af.id.au/viral4d/sitemap.xml
+Sitemap: http://af.id.au/playground88/sitemap.xml
